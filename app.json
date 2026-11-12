@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Pega-Ladrão",
+    "slug": "pega-ladrao",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true, "infoPlist": { "NSLocationWhenInUseUsageDescription": "O app usa sua localização durante a partida." } },
+    "android": { "permissions": ["ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION"] }
+  }
+}
